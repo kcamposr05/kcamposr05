@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Campos 👋
 
-## Senior Full Stack Software Engineer
+## Full Stack Software Engineer
 
 Building Enterprise Software, SaaS Platforms, APIs, AI Automation and Cloud Solutions.
 
