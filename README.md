@@ -12,7 +12,7 @@ Building Enterprise Software, SaaS Platforms, APIs, AI Automation and Cloud Solu
 
 ## About Me
 
-Senior Full Stack Software Engineer with 8+ years of experience developing enterprise software, SaaS platforms, APIs, cloud infrastructure, and mission-critical integrations for companies in Costa Rica and the United States.
+Full Stack Software Engineer with 8+ years of experience developing enterprise software, SaaS platforms, APIs, cloud infrastructure, and mission-critical integrations for companies in Costa Rica and the United States.
 
 I specialize in designing and delivering scalable business solutions from concept to production, including architecture, backend development, frontend applications, infrastructure, deployment, and automation.
 
