@@ -169,4 +169,4 @@ Django • DRF • PostgreSQL • React
 
 🌐 https://kevilyncamposrodriguez.net
 
-💼 LinkedIn: linkedin.com/in/kevilyncamposrodriguez
+💼 LinkedIn: [linkedin.com/in/kevilyncamposrodriguez](https://www.linkedin.com/in/kevilyncamposrodriguez/)
