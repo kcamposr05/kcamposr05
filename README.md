@@ -6,7 +6,7 @@ Building Enterprise Software, SaaS Platforms, APIs, AI Automation and Cloud Solu
 
 📍 Cartago, Costa Rica
 🌐 Portfolio: https://kevilyncamposrodriguez.net
-💼 LinkedIn: linkedin.com/in/kevilyncamposrodriguez
+💼 LinkedIn: [linkedin.com/in/kevilyncamposrodriguez](https://www.linkedin.com/in/kevilyncamposrodriguez/)
 
 ---
 
