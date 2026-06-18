@@ -5,7 +5,7 @@
 Building Enterprise Software, SaaS Platforms, APIs, AI Automation and Cloud Solutions.
 
 📍 Cartago, Costa Rica
-🌐 Portfolio: https://kevilyncamposrodriguez.com
+🌐 Portfolio: https://kevilyncamposrodriguez.net
 💼 LinkedIn: linkedin.com/in/kevilyncamposrodriguez
 
 ---
@@ -167,6 +167,6 @@ Django • DRF • PostgreSQL • React
 
 📧 k.camposr05@outlook.com
 
-🌐 https://kevilyncamposrodriguez.com
+🌐 https://kevilyncamposrodriguez.net
 
 💼 LinkedIn: linkedin.com/in/kevilyncamposrodriguez
