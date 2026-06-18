@@ -174,7 +174,6 @@ While the source code cannot be publicly shared, I provide:
 - Technology stack details
 - Key achievements and outcomes
 
-This allows me to demonstrate my experience and technical expertise while respecting client confidentiality.
 
 ---
 ## Contact
