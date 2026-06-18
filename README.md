@@ -162,7 +162,21 @@ Django • DRF • PostgreSQL • React
 - Cloud Infrastructure
 
 ---
+## Featured Projects
 
+Some of the projects presented in my portfolio were developed for clients or companies and are subject to confidentiality restrictions.
+
+While the source code cannot be publicly shared, I provide:
+
+- Screenshots
+- Architecture diagrams
+- Technical case studies
+- Technology stack details
+- Key achievements and outcomes
+
+This allows me to demonstrate my experience and technical expertise while respecting client confidentiality.
+
+---
 ## Contact
 
 📧 k.camposr05@outlook.com
